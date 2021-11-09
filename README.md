@@ -57,6 +57,9 @@ A curated list for awesome machine learning methods for neural code intelligence
 - Learning Execution through Neural Code Fusion, Shi et al., ICLR (2020)
   [[arXiv]](https://arxiv.org/abs/1906.07181)
   [[Talk]](https://papertalk.org/papertalks/3759)
+- Learning to Represent Programs with Graphs, Allamanis et al., ICLR (2018)
+  [[arXiv]](https://arxiv.org/abs/1711.00740)
+  [[GitHub]](https://github.com/Microsoft/graph-based-code-modelling)
   
 ### Benchmarks & Surveys
 
