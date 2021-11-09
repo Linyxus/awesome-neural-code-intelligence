@@ -67,7 +67,7 @@ A curated list for awesome machine learning methods for neural code intelligence
 
 - CodeBLEU: a Method for Automatic Evaluation of Code Synthesis, Ren et al., CoRR (2020)
   [[arXiv]](https://arxiv.org/abs/2009.10297)
-- CodeXGLUE - A Machine Learning Benchmark Dataset for Code Understanding and Generation, Lu et al., CoRR (2021)
+- CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation, Lu et al., CoRR (2021)
   [[arXiv]](https://arxiv.org/abs/2102.04664)
   [[GitHub]](https://github.com/microsoft/CodeXGLUE)
   [[Website]](https://microsoft.github.io/CodeXGLUE/)
