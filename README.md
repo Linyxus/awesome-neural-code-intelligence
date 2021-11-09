@@ -7,11 +7,11 @@ A curated list for awesome machine learning methods for neural code intelligence
 
 ## RNN/LSTM-based
 
-- code2vec - Learning Distributed Representations of Code, Alon et al., Proc. ACM Program. Lang. (2019): 40:1-40:29
+- code2vec: Learning Distributed Representations of Code, Alon et al., Proc. ACM Program. Lang. (2019): 40:1-40:29
   [[arXiv]](https://arxiv.org/abs/1803.09473)
   [[Github]](https://github.com/tech-srl/code2vec)
   [[Demo]](https://code2vec.org/)
-- code2seq - Generating Sequences from Structured Representations of Code, Alon et al., ICLR (2019
+- code2seq: Generating Sequences from Structured Representations of Code, Alon et al., ICLR (2019
   [[arXiv]](https://arxiv.org/abs/1808.01400)
   [[Github]](https://github.com/tech-srl/code2seq)
   [[Demo]](https://code2seq.org/)
