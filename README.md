@@ -5,7 +5,9 @@ A curated list for awesome machine learning methods for neural code intelligence
 
 - [ML for Code](https://ml4code.github.io)
 
-## RNN/LSTM-based
+## Paper List
+
+### RNN/LSTM-based
 
 - code2vec: Learning Distributed Representations of Code, Alon et al., Proc. ACM Program. Lang. (2019): 40:1-40:29
   [[arXiv]](https://arxiv.org/abs/1803.09473)
@@ -16,7 +18,7 @@ A curated list for awesome machine learning methods for neural code intelligence
   [[GitHub]](https://github.com/tech-srl/code2seq)
   [[Demo]](https://code2seq.org/)
 
-## Transformer-based
+### Transformer-based
 
 - CodeBERT: A Pre-Trained Model for Programming and Natural Languages, Feng et al., EMNLP (2020): 1536-1547 
   [[arXiv]](https://arxiv.org/abs/2002.08155)
@@ -41,13 +43,13 @@ A curated list for awesome machine learning methods for neural code intelligence
 - Exploring Software Naturalness through Neural Language Models, Buratti et al., CoRR (2020)
   [[arXiv]](https://arxiv.org/abs/2006.12641)
   
-## GNN-based
+### GNN-based
 
 - Learning Execution through Neural Code Fusion, Shi et al., ICLR (2020)
   [[arXiv]](https://arxiv.org/abs/1906.07181)
   [[Talk]](https://papertalk.org/papertalks/3759)
   
-## Benchmarks & Surveys
+### Benchmarks & Surveys
 
 - CodeBLEU: a Method for Automatic Evaluation of Code Synthesis, Ren et al., CoRR (2020)
   [[arXiv]](https://arxiv.org/abs/2009.10297)
