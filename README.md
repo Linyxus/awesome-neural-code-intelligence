@@ -41,6 +41,12 @@ A curated list for awesome machine learning methods for neural code intelligence
 - Exploring Software Naturalness through Neural Language Models, Buratti et al., CoRR (2020)
   [[arXiv]](https://arxiv.org/abs/2006.12641)
   
+## GNN-based
+
+- Learning Execution through Neural Code Fusion, Shi et al., ICLR (2020)
+  [[arXiv]](https://arxiv.org/abs/1906.07181)
+  [[Talk]](https://papertalk.org/papertalks/3759)
+  
 ## Benchmarks & Surveys
 
 - CodeBLEU: a Method for Automatic Evaluation of Code Synthesis, Ren et al., CoRR (2020)
