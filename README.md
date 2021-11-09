@@ -29,9 +29,18 @@ A curated list for awesome machine learning methods for neural code intelligence
 - CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation., Wang et al., arXiv (2021) 
   [[arXiv]](https://arxiv.org/abs/2109.00859) 
   [[GitHub]](https://github.com/salesforce/CodeT5)
+- PyMT5: multi-mode translation of natural language and Python code with transformers, Clement et al., EMNLP (2020): 9052-9065
+  [[arXiv]](https://arxiv.org/abs/2010.03150)
+  [[GitHub]](https://github.com/devcartel/pymt5)
 - Evaluating Large Language Models Trained on Code, Chen et al., CoRR (2021)
   [[arXiv]](https://arxiv.org/abs/2107.03374) 
   [[GitHub]](https://github.com/openai/human-eval)
+- Studying the Usage of Text-To-Text Transfer Transformer to Support Code-Related Tasks, Mastropaolo et al., ICSE (2021): 336-347
+  [[arXiv]](https://arxiv.org/abs/2102.02017)
+  [[GitHub]](https://github.com/antonio-mastropaolo/T5-learning-ICSE_2021)
+- Multi-task Learning based Pre-trained Language Model for Code Completion, Liu et al., ASE (2020): 473-485
+  [[arXiv]](https://arxiv.org/abs/2012.14631)
+  [[GitHub]](https://github.com/LiuFang816/CugLM)
 - Unsupervised Translation of Programming Languages, Rozière et al., NeurIPS (2020)
   [[arXiv]](https://arxiv.org/abs/2006.03511) 
   [[GitHub]](https://github.com/facebookresearch/CodeGen)
