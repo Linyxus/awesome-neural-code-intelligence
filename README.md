@@ -31,7 +31,6 @@ A curated list for awesome machine learning methods for neural code intelligence
   [[GitHub]](https://github.com/salesforce/CodeT5)
 - PyMT5: multi-mode translation of natural language and Python code with transformers, Clement et al., EMNLP (2020): 9052-9065
   [[arXiv]](https://arxiv.org/abs/2010.03150)
-  [[GitHub]](https://github.com/devcartel/pymt5)
 - Evaluating Large Language Models Trained on Code, Chen et al., CoRR (2021)
   [[arXiv]](https://arxiv.org/abs/2107.03374) 
   [[GitHub]](https://github.com/openai/human-eval)
