@@ -53,6 +53,8 @@ A curated list for awesome machine learning methods for neural code intelligence
   [[arXiv]](https://arxiv.org/abs/2005.08025)
 - Exploring Software Naturalness through Neural Language Models, Buratti et al., CoRR (2020)
   [[arXiv]](https://arxiv.org/abs/2006.12641)
+- Unified Pre-training for Program Understanding and Generation, Ahmad et al., NAACL-HLT (2021): 2655-2668
+  [[arXiv]](https://arxiv.org/abs/2103.06333)
   
 ### GNN-based
 
