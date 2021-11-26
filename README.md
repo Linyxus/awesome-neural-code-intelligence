@@ -73,3 +73,5 @@ A curated list for awesome machine learning methods for neural code intelligence
   [[arXiv]](https://arxiv.org/abs/2102.04664)
   [[GitHub]](https://github.com/microsoft/CodeXGLUE)
   [[Website]](https://microsoft.github.io/CodeXGLUE/)
+- Measuring Coding Challenge Competence With APPS, Hendrycks et al., CoRR (2021)
+  [[arXiv]](https://arxiv.org/abs/2105.09938)
